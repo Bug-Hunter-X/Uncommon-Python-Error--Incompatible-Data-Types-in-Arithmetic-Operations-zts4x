@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Python related to incompatible data types in arithmetic operations. The `bug.py` file contains code that produces the error. The `bugSolution.py` file demonstrates the corrected code which handles the potential errors using a try-except block.
